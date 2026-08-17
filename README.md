@@ -9,7 +9,10 @@ PostgreSQL • SQL • CSV • GitHub
 📂 Project Files
 
 File| Description
-📊 "Hospital_Data.csv" (https://github.com/Sufif/-Hospital-Data-SQL-Analysis/blob/main/Hospital_Data.csv)| Hospital dataset
+📊 "Hospital_Data.csv" :(https://github.com/Sufif/-Hospital-Data-SQL-Analysis/blob/main/Hospital_Data.csv)| 
+
+
+Hospital dataset:
 💻 "Satish Assisgnment Solved.sql" (https://github.com/Sufif/-Hospital-Data-SQL-Analysis/blob/main/Satish%20Assisgnment%20Solved.sql)| SQL queries & analysis
 
 🔎 Analysis Highlights
